@@ -1,8 +1,8 @@
-# LinkedIn Clone Backend (Microservices)
+# Professional Networking Platform Backend (Microservices)
 
 ## Overview
 **(Will update this guide soon for detailed setup)**
-This project is the backend implementation for a LinkedIn Clone application, built using a microservices architecture with Spring Boot and Spring Cloud. It demonstrates various patterns common in distributed systems.
+This project is the backend implementation for a Professional Networking Platform, built using a microservices architecture with Spring Boot and Spring Cloud. It demonstrates various patterns common in distributed systems.
 
 The system consists of the following core microservices:
 
@@ -55,5 +55,5 @@ Communication between services primarily happens via REST APIs (through the gate
 ### 1. Clone the Repository
 **(Use your repo URL if different)**
 ```bash
-git clone [https://github.com/tusaryan/linkedInApp.git](https://www.google.com/search?q=https://github.com/tusaryan/linkedInApp.git)
-cd linkedInApp
+git clone [https://github.com/ARYANKUMAR1/Professional-Networking-Platform.git](https://github.com/ARYANKUMAR1/Professional-Networking-Platform.git)
+cd Professional-Networking-Platform
